@@ -22,6 +22,7 @@ In this document, I review the steps to set up an active directory in a virtual 
 <img width="800" alt="Screenshot of creating domain " src="https://github.com/user-attachments/assets/2a885745-5108-4e3e-8811-d85f237f84b4" />
 
 <img width="800" alt="Screenshot of AD checking system requirements " src="https://github.com/user-attachments/assets/b0e53436-2784-415a-bb2a-656c0cbb6ad1" />
+
 - Checked system prerequisites 
 
 5. Created a organizational unit in Active Directory
