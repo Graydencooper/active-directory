@@ -27,7 +27,9 @@ In this document, I review the steps to set up an active directory in a virtual 
 
 5. Created a organizational unit in Active Directory
 <img width="800" alt="Screenshot creating OU" src="https://github.com/user-attachments/assets/f925dd3c-6882-44c4-ab08-bda81d592b9c" />
+
 - Opened Active Directory Users and Computers
+
 - Created Organizatinal unit "_ADMINS"
   
 7. Created admin user
@@ -35,6 +37,7 @@ In this document, I review the steps to set up an active directory in a virtual 
 
 <img width="800" alt="Screenshot of new user properties" src="https://github.com/user-attachments/assets/29b192e6-a741-419f-8903-7f7733fad966" />
 <img width="800" alt="Screenshot of new user being added to domain admins group" src="https://github.com/user-attachments/assets/8c48d39e-4ab1-41f1-84d1-f6898c9bf3dd" />
+
 - Set group memership
 ## What I Learned
 
