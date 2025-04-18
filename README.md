@@ -1,3 +1,5 @@
+# Hands-On Lab: Active Directory Configuration in Azure, VM Setup, OUs, and User Management
+
 ## Overview
 In this document, I review the steps to set up an active directory in a virtual Windows environment and setup organizational units and users.
 
